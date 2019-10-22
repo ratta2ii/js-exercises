@@ -20,4 +20,6 @@ var concatSentenceAndLetters = function() {
   return answer + appendingLetters;
 }
 
+// Final answer alert
+
 alert(concatSentenceAndLetters());
